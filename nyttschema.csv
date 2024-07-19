@@ -1,0 +1,439 @@
+Startdatum,Starttid,Slutdatum,Sluttid,Subject,Description,Location,Private
+2024-08-20,10:00,2024-08-20,12:00,Upprop ⓘ (C1),"Information till student: Upprop, välkomnande av nämnden<br/>Lokal: C1<br/>Studentgrupp: D1,IT1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-20,10:30,2024-08-20,12:00,Klassföreståndarpass (S15),Information till student: Klassföreståndarpass<br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Anastasia Saprunova Akol,,True
+2024-08-20,12:00,2024-08-20,17:00,Mottagningsaktivitet (Ingen lokal),Information till student: Mottagningsaktivitet<br/>Lokal: Ingen lokal<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-21,08:15,2024-08-21,11:00,TATA65 Diagnostiskt prov (S15),Information till student: Diagnostiskt prov<br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Elias Johansson,,True
+2024-08-21,11:15,2024-08-21,12:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-21,13:15,2024-08-21,15:00,TDDE23 Föreläsning ⓘ (A1),"Information till student: Föreläsning 1<br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Peter Dalenius",,True
+2024-08-21,15:15,2024-08-21,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-22,08:15,2024-08-22,10:00,TATA65 Mentorsmöte (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-08-22,08:15,2024-08-22,10:00,TATA65 Mentorsmöte (S35),Information till student: <br/>Lokal: S35<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-08-22,10:15,2024-08-22,12:00,"9AMA57,TATA65 Föreläsning (A1)","Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-08-22,13:15,2024-08-22,14:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-22,14:00,2024-08-22,14:30,LiU-kort,Information till student: LiU-kort<br/>Lokal: <br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-22,14:30,2024-08-22,15:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-22,15:15,2024-08-22,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-23,08:15,2024-08-23,10:00,Klassföreståndartid (S15),Information till student: Klassföreståndartid<br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Anastasia Saprunova Akol,,True
+2024-08-23,10:15,2024-08-23,12:00,"TDDE23 Laboration ⓘ (SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24,SU25)","Information till student: Laboration 1<br/>Lokal: SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24,SU25<br/>Studentgrupp: D1.a,D1.b,D1.c,U1.a,U1.b<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-23,13:15,2024-08-23,15:00,TATA65 Lektion (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-08-23,15:15,2024-08-23,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-26,08:15,2024-08-26,10:00,"TDDE23 Laboration ⓘ (SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24)","Information till student: Laboration 2<br/>Lokal: SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24<br/>Studentgrupp: D1.a,D1.b,D1.c,U1.a,U1.b<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-26,10:15,2024-08-26,12:00,"9AMA57,TATA65 Föreläsning (A1)","Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-08-26,13:15,2024-08-26,15:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-26,15:15,2024-08-26,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-27,08:15,2024-08-27,10:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-27,10:15,2024-08-27,12:00,TATA65 Lektion (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-08-27,13:15,2024-08-27,15:00,TDDE23 Föreläsning ⓘ (A1),"Information till student: Föreläsning 2<br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Peter Dalenius",,True
+2024-08-27,15:00,2024-08-27,17:00,Stadsvandring,"Information till student: Stadsvandring<br/>Lokal: <br/>Studentgrupp: D1,IP1,IT1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-28,08:15,2024-08-28,10:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-28,10:15,2024-08-28,12:00,Klassföreståndartid (S15),Information till student: Klassföreståndartid<br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Anastasia Saprunova Akol,,True
+2024-08-28,13:15,2024-08-28,15:00,TATA65 Lektion (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-08-28,15:15,2024-08-28,17:00,München Hoben,"Information till student: München Hoben<br/>Lokal: <br/>Studentgrupp: CS1,CYS1,D1,DI1,IP1,IT1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-29,08:15,2024-08-29,10:00,"TDDE23 Laboration ⓘ (SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24,SU25)","Information till student: Laboration 3<br/>Lokal: SU00,SU01,SU02,SU03,SU04,SU10,SU11,SU12,SU13,SU14,SU15/16,SU17/18,SU24,SU25<br/>Studentgrupp: D1.a,D1.b,D1.c,U1.a,U1.b<br/>Fria grupper: <br/>Lärare: ",,True
+2024-08-29,10:15,2024-08-29,12:00,TATA65 Mentorsmöte (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-08-29,10:15,2024-08-29,12:00,TATA65 Mentorsmöte (S35),Information till student: <br/>Lokal: S35<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-08-29,13:15,2024-08-29,15:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-29,15:15,2024-08-29,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-30,08:15,2024-08-30,10:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-30,10:15,2024-08-30,12:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-08-30,13:15,2024-08-30,15:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-08-30,15:15,2024-08-30,17:00,Eget arbete (S15),Information till student: <br/>Lokal: S15<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: ,,True
+2024-09-02,08:15,2024-09-02,10:00,TATA65 Lektion (R43),Information till student: <br/>Lokal: R43<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-02,10:15,2024-09-02,12:00,TDDE23 Föreläsning ⓘ (Extern lokal V),"Information till student: Kollektivet<br/>Lokal: Extern lokal V<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Peter Dalenius",,True
+2024-09-02,13:15,2024-09-02,15:00,TDDD70 Föreläsning ⓘ (C2),"Information till student: Kursintroduktion<br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-09-03,10:15,2024-09-03,12:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-03,13:15,2024-09-03,15:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-03,13:15,2024-09-03,15:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-03,15:15,2024-09-03,17:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-03,15:15,2024-09-03,17:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-04,08:15,2024-09-04,10:00,TATA65 Lektion (U14),Information till student: <br/>Lokal: U14<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-04,10:15,2024-09-04,12:00,TATA65 Mentorsmöte (R22),Information till student: <br/>Lokal: R22<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-09-04,10:15,2024-09-04,12:00,TATA65 Mentorsmöte (R37),Information till student: <br/>Lokal: R37<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-09-04,13:15,2024-09-04,14:00,TDDD70 Workshop ⓘ (Key1),"Information till student: Personlig ledning<br/>Lokal: Key1<br/>Studentgrupp: U1.a,U1.b<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-09-04,15:00,2024-09-04,21:00,Kalasmottagning,"Information till student: Kalasmottagning<br/>Lokal: <br/>Studentgrupp: CS1,CYS1,D1,DI1,IP1,IT1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-05,08:15,2024-09-05,10:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-05,08:15,2024-09-05,10:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-05,10:15,2024-09-05,12:00,Klassföreståndartid (R22),Information till student: Klassföreståndartid<br/>Lokal: R22<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Anastasia Saprunova Akol,,True
+2024-09-06,08:15,2024-09-06,10:00,TATA65 Lektion (U11),Information till student: <br/>Lokal: U11<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-06,10:15,2024-09-06,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-06,10:15,2024-09-06,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-06,13:15,2024-09-06,15:00,TDDE25 Föreläsning (C4),"Information till student: <br/>Lokal: C4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Daniel de Leng",,True
+2024-09-06,23:45,2024-09-07,00:00,TDDD70 Inlämning ⓘ,"Information till student: Deadline för webreg registrering senast kl. 24:00<br/>Lokal: <br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-06,23:45,2024-09-07,00:00,TDDD70 Inlämning ⓘ,"Information till student: Deadline: Inlämning uppgift 1 i Lisam senast kl. 24:00<br/>Lokal: <br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-09,08:15,2024-09-09,10:00,"9AMA57,TATA65 Föreläsning (VAL1)","Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-09,10:15,2024-09-09,12:00,TDDE23 Laboration (Asgård),Information till student: <br/>Lokal: Asgård<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-09,10:15,2024-09-09,12:00,TDDE23 Laboration (Egypten),Information till student: <br/>Lokal: Egypten<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-09,13:15,2024-09-09,15:00,TDDE25 Föreläsning (C4),"Information till student: <br/>Lokal: C4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Petru Eles",,True
+2024-09-10,10:15,2024-09-10,12:00,TATA65 Lektion (U7),Information till student: <br/>Lokal: U7<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-10,13:15,2024-09-10,15:00,TDDE23 Seminarium (KY23),"Information till student: <br/>Lokal: KY23<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-10,13:15,2024-09-10,15:00,TDDE23 Seminarium (KY31),"Information till student: <br/>Lokal: KY31<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-10,13:15,2024-09-10,15:00,TDDE23 Seminarium (KY34),"Information till student: <br/>Lokal: KY34<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-10,13:15,2024-09-10,15:00,TDDE23 Seminarium (SH63),"Information till student: <br/>Lokal: SH63<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-10,13:15,2024-09-10,15:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-10,15:15,2024-09-10,17:00,Klassföreståndartid (KY26),Information till student: Klassföreståndartid<br/>Lokal: KY26<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Anastasia Saprunova Akol,,True
+2024-09-11,08:15,2024-09-11,10:00,TDDE23 Laboration (SU24),Information till student: <br/>Lokal: SU24<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-11,08:15,2024-09-11,10:00,TDDE23 Laboration (SU25),Information till student: <br/>Lokal: SU25<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-11,13:15,2024-09-11,15:00,TATA65 Lektion (U7),Information till student: <br/>Lokal: U7<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-12,08:15,2024-09-12,10:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-12,08:15,2024-09-12,10:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-12,10:15,2024-09-12,12:00,TDDE23 Laboration (SU13),Information till student: <br/>Lokal: SU13<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-12,10:15,2024-09-12,12:00,TDDE23 Laboration (SU14),Information till student: <br/>Lokal: SU14<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-13,08:15,2024-09-13,10:00,TATA65 Mentorsmöte (S25),Information till student: <br/>Lokal: S25<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-09-13,08:15,2024-09-13,10:00,TATA65 Mentorsmöte (S27),Information till student: <br/>Lokal: S27<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-09-13,13:15,2024-09-13,15:00,TDDE25 Föreläsning (A2),"Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Petru Eles",,True
+2024-09-16,08:15,2024-09-16,10:00,"9AMA57,TATA65 Föreläsning (C4)","Information till student: <br/>Lokal: C4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-16,10:15,2024-09-16,12:00,TDDD70 Föreläsning ⓘ,"Information till student: Föreläsning med Björn Liljeqvist: ""Plugga smart och lär dig mera"" - Lokal: A2<br/>Lokal: <br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-16,10:15,2024-09-16,12:00,Föreläsning ⓘ (A2),"Information till student: Plugga smart och lär dig mera<br/>Lokal: A2<br/>Studentgrupp: D1,IP1,IT1,U1<br/>Fria grupper: <br/>Lärare: Björn Liljeqvist",,True
+2024-09-16,13:15,2024-09-16,15:00,TDDE25 Föreläsning (VAL1),"Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Niklas Carlsson",,True
+2024-09-16,15:15,2024-09-16,17:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-16,15:15,2024-09-16,17:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-17,10:15,2024-09-17,12:00,TATA65 Lektion (U4),Information till student: <br/>Lokal: U4<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-17,13:15,2024-09-17,15:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-17,13:15,2024-09-17,15:00,TDDE23 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-17,13:15,2024-09-17,15:00,TDDE23 Seminarium (U4),"Information till student: <br/>Lokal: U4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-17,13:15,2024-09-17,15:00,TDDE23 Seminarium (U6),"Information till student: <br/>Lokal: U6<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-17,13:15,2024-09-17,15:00,TDDE23 Seminarium (U7),"Information till student: <br/>Lokal: U7<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-17,15:15,2024-09-17,17:00,TDDE23 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-17,15:15,2024-09-17,17:00,TDDE23 Laboration (SU10),Information till student: <br/>Lokal: SU10<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-18,08:15,2024-09-18,10:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Niklas Carlsson",,True
+2024-09-18,13:15,2024-09-18,15:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-18,15:15,2024-09-18,17:00,TATA65 Mentorsmöte (R22),Information till student: <br/>Lokal: R22<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-09-18,15:15,2024-09-18,17:00,TATA65 Mentorsmöte (R27),Information till student: <br/>Lokal: R27<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-09-19,10:15,2024-09-19,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-19,10:15,2024-09-19,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-20,08:15,2024-09-20,10:00,TATA65 Lektion (U6),Information till student: <br/>Lokal: U6<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-20,15:15,2024-09-20,17:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-20,15:15,2024-09-20,17:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-23,08:15,2024-09-23,10:00,TATA65 Lektion (U3),Information till student: <br/>Lokal: U3<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-23,10:15,2024-09-23,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-23,10:15,2024-09-23,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-23,13:15,2024-09-23,15:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Victor Lagerkvist",,True
+2024-09-24,10:15,2024-09-24,12:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-24,13:15,2024-09-24,15:00,TDDE23 Seminarium (KY26),"Information till student: <br/>Lokal: KY26<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-24,13:15,2024-09-24,15:00,TDDE23 Seminarium (KY31),"Information till student: <br/>Lokal: KY31<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-24,13:15,2024-09-24,15:00,TDDE23 Seminarium (SH62),"Information till student: <br/>Lokal: SH62<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-24,13:15,2024-09-24,15:00,TDDE23 Seminarium (SH63),"Information till student: <br/>Lokal: SH63<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-24,13:15,2024-09-24,15:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-09-24,15:15,2024-09-24,17:00,TDDE23 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-24,15:15,2024-09-24,17:00,TDDE23 Laboration (SU10),Information till student: <br/>Lokal: SU10<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-25,08:15,2024-09-25,10:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Peter Jonsson",,True
+2024-09-25,10:15,2024-09-25,12:00,TATA65 Lektion (U14),Information till student: <br/>Lokal: U14<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-25,15:15,2024-09-25,17:00,TATA65 Mentorsmöte (P44),Information till student: <br/>Lokal: P44<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-09-25,15:15,2024-09-25,17:00,TATA65 Mentorsmöte (R37),Information till student: <br/>Lokal: R37<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-09-26,10:15,2024-09-26,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-26,10:15,2024-09-26,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-26,13:15,2024-09-26,15:00,TDDE23 Föreläsning (VAL1),"Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-09-27,08:15,2024-09-27,10:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-09-27,13:15,2024-09-27,15:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Olaf Hartig",,True
+2024-09-27,15:15,2024-09-27,17:00,TDDE23 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-09-27,15:15,2024-09-27,17:00,TDDE23 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-09-30,08:15,2024-09-30,10:00,TATA65 Lektion (U4),Information till student: <br/>Lokal: U4<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-09-30,10:15,2024-09-30,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-09-30,10:15,2024-09-30,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-09-30,13:15,2024-09-30,15:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Christoph Kessler",,True
+2024-10-01,10:15,2024-10-01,12:00,TATA65 Lektion (KY31),Information till student: <br/>Lokal: KY31<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-10-01,13:15,2024-10-01,15:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-01,13:15,2024-10-01,15:00,TDDE23 Seminarium (U14),"Information till student: <br/>Lokal: U14<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-01,13:15,2024-10-01,15:00,TDDE23 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-01,13:15,2024-10-01,15:00,TDDE23 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-01,13:15,2024-10-01,15:00,TDDE23 Seminarium (U4),"Information till student: <br/>Lokal: U4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-01,15:15,2024-10-01,17:00,TDDE23 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-01,15:15,2024-10-01,17:00,TDDE23 Laboration (SU14),Information till student: <br/>Lokal: SU14<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-02,08:15,2024-10-02,10:00,TDDE25 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Christoph Kessler",,True
+2024-10-02,13:15,2024-10-02,15:00,"9AMA57,TATA65 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-10-02,15:15,2024-10-02,17:00,TATA65 Mentorsmöte (R18),Information till student: <br/>Lokal: R18<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-10-02,15:15,2024-10-02,17:00,TATA65 Mentorsmöte (R27),Information till student: <br/>Lokal: R27<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-10-03,10:15,2024-10-03,12:00,TDDE23 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2,Grupp 4<br/>Lärare: ",,True
+2024-10-03,15:15,2024-10-03,17:00,TATA65 Lektion (U14),Information till student: <br/>Lokal: U14<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-10-04,15:15,2024-10-04,17:00,TDDE23 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-04,15:15,2024-10-04,17:00,TDDE23 Laboration (SU10),Information till student: <br/>Lokal: SU10<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-07,08:15,2024-10-07,10:00,"9AMA57,TATA65 Föreläsning (A1)","Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-10-07,10:15,2024-10-07,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-10-07,10:15,2024-10-07,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-10-07,13:15,2024-10-07,15:00,TDDE25 Föreläsning (VAL1),"Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Daniel Varro",,True
+2024-10-07,15:15,2024-10-07,17:00,TDDE23 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-07,15:15,2024-10-07,17:00,TDDE23 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-07,23:45,2024-10-08,00:00,"TDDD70,TDDD84,TDDD91 Inlämning ⓘ","Information till student: Deadline inlämning i Lisam senast kl. 23:59<br/>Lokal: <br/>Studentgrupp: D1,D2,D3,U1,U2,U3<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-08,10:15,2024-10-08,12:00,TATA65 Lektion (SH62),Information till student: <br/>Lokal: SH62<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-10-08,13:15,2024-10-08,15:00,TDDE23 Föreläsning (C2),"Information till student: <br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-10-08,15:15,2024-10-08,17:00,TDDE23 Seminarium (U10),"Information till student: <br/>Lokal: U10<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-08,15:15,2024-10-08,17:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-08,15:15,2024-10-08,17:00,TDDE23 Seminarium (U14),"Information till student: <br/>Lokal: U14<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-08,15:15,2024-10-08,17:00,TDDE23 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-08,15:15,2024-10-08,17:00,TDDE23 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-09,08:15,2024-10-09,10:00,TDDE25 Föreläsning (C2),"Information till student: <br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Anders Jidesjö",,True
+2024-10-09,13:15,2024-10-09,15:00,TATA65 Lektion (KY31),Information till student: <br/>Lokal: KY31<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-10-10,13:15,2024-10-10,15:00,TDDE23 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2,Grupp 4<br/>Lärare: ",,True
+2024-10-10,15:15,2024-10-10,17:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-10,15:15,2024-10-10,17:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-11,08:15,2024-10-11,10:00,TATA65 Mentorsmöte (R35),Information till student: <br/>Lokal: R35<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-10-11,08:15,2024-10-11,10:00,TATA65 Mentorsmöte (S11),Information till student: <br/>Lokal: S11<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-10-11,13:15,2024-10-11,15:00,TDDE25 Föreläsning (C2),"Information till student: <br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Fredrik Heintz",,True
+2024-10-14,08:15,2024-10-14,10:00,TDDE25 Föreläsning (VAL1),"Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Cyrille Berger,Daniel de Leng",,True
+2024-10-14,10:15,2024-10-14,12:00,TDDE23 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-14,10:15,2024-10-14,12:00,TDDE23 Seminarium (U14),"Information till student: <br/>Lokal: U14<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-14,10:15,2024-10-14,12:00,TDDE23 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-14,10:15,2024-10-14,12:00,TDDE23 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-14,10:15,2024-10-14,12:00,TDDE23 Seminarium (U4),"Information till student: <br/>Lokal: U4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: ",,True
+2024-10-15,08:15,2024-10-15,10:00,TDDE23 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-10-15,08:15,2024-10-15,10:00,TDDE23 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-10-15,10:15,2024-10-15,12:00,"9AMA57,TATA65 Föreläsning (A1)","Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren",,True
+2024-10-16,08:15,2024-10-16,10:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-16,08:15,2024-10-16,10:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-16,10:15,2024-10-16,12:00,TATA65 Lektion (U3),Information till student: <br/>Lokal: U3<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Erik Darpö,,True
+2024-10-16,13:15,2024-10-16,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (AG24)","Information till student: Dialogseminarium: obligatorisk närvaro - U04<br/>Lokal: AG24<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Anders Fröberg",,True
+2024-10-16,13:15,2024-10-16,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG43)","Information till student: Dialogseminarium: obligatorisk närvaro - U02<br/>Lokal: KG43<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Peter Dalenius",,True
+2024-10-16,13:15,2024-10-16,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG44)","Information till student: Dialogseminarium: obligatorisk närvaro - U12<br/>Lokal: KG44<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-10-16,13:15,2024-10-16,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG45)","Information till student: Dialogseminarium: obligatorisk närvaro - U01<br/>Lokal: KG45<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Emil Wiman",,True
+2024-10-17,08:15,2024-10-17,10:00,TDDE23 Laboration (SU11),Information till student: <br/>Lokal: SU11<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-10-17,08:15,2024-10-17,10:00,TDDE23 Laboration (SU12),Information till student: <br/>Lokal: SU12<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-10-18,08:15,2024-10-18,10:00,TATA65 Mentorsmöte (R34),Information till student: <br/>Lokal: R34<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: Elias Johansson,,True
+2024-10-18,08:15,2024-10-18,10:00,TATA65 Mentorsmöte (R44),Information till student: <br/>Lokal: R44<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: Shayan Kharaghani,,True
+2024-10-18,13:15,2024-10-18,15:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-18,13:15,2024-10-18,15:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-21,10:15,2024-10-21,12:00,TDDE23 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 1<br/>Lärare: ,,True
+2024-10-21,10:15,2024-10-21,12:00,TDDE23 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 3<br/>Lärare: ,,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG21)","Information till student: Dialogseminarium: obligatorisk närvaro - U06<br/>Lokal: KG21<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Jonathan Hjort",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG22)","Information till student: Dialogseminarium: obligatorisk närvaro - U08<br/>Lokal: KG22<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG23)","Information till student: Dialogseminarium: obligatorisk närvaro - U10<br/>Lokal: KG23<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG31)","Information till student: Dialogseminarium: obligatorisk närvaro - U11<br/>Lokal: KG31<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Sonia Sangari",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG32)","Information till student: Dialogseminarium: obligatorisk närvaro - U15<br/>Lokal: KG32<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Kristina Boström",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG33)","Information till student: Dialogseminarium: obligatorisk närvaro - U16<br/>Lokal: KG33<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Niklas Lanzén",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG34)","Information till student: Dialogseminarium: obligatorisk närvaro - U18<br/>Lokal: KG34<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Susanna Dahlgren",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG36)","Information till student: Dialogseminarium: obligatorisk närvaro - U20<br/>Lokal: KG36<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Hanna Müller",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG41)","Information till student: Dialogseminarium: obligatorisk närvaro - U19<br/>Lokal: KG41<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Therese Öberg",,True
+2024-10-21,13:15,2024-10-21,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG47)","Information till student: Dialogseminarium: obligatorisk närvaro - U17<br/>Lokal: KG47<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: August Ernstsson",,True
+2024-10-22,08:15,2024-10-22,10:00,TDDE23 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 2<br/>Lärare: ,,True
+2024-10-22,08:15,2024-10-22,10:00,TDDE23 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1.a<br/>Fria grupper: Grupp 4<br/>Lärare: ,,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG21)","Information till student: Dialogseminarium: obligatorisk närvaro - U03<br/>Lokal: KG21<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Ahmed Rezine",,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG22)","Information till student: Dialogseminarium: obligatorisk närvaro - U05<br/>Lokal: KG22<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG23)","Information till student: Dialogseminarium: obligatorisk närvaro - U14<br/>Lokal: KG23<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG31)","Information till student: Dialogseminarium: obligatorisk närvaro - U09<br/>Lokal: KG31<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Eva Ragnemalm",,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG32)","Information till student: Dialogseminarium: obligatorisk närvaro - U13<br/>Lokal: KG32<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Kristina Boström",,True
+2024-10-22,13:15,2024-10-22,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG33)","Information till student: Dialogseminarium: obligatorisk närvaro - U07<br/>Lokal: KG33<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: August Ernstsson",,True
+2024-11-04,13:15,2024-11-04,17:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-04,13:15,2024-11-04,17:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-04,13:15,2024-11-04,17:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-05,10:15,2024-11-05,12:00,"TDDD72,TDDD88 Föreläsning (VAL1)","Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-05,13:15,2024-11-05,15:00,TDDE24 Föreläsning (C2),"Information till student: <br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-11-05,15:15,2024-11-05,17:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-05,15:15,2024-11-05,17:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-05,15:15,2024-11-05,17:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-05,15:15,2024-11-05,17:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-06,10:15,2024-11-06,12:00,TDDE24 Seminarium (R43),"Information till student: <br/>Lokal: R43<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-11-06,10:15,2024-11-06,12:00,TDDE24 Seminarium (U10),"Information till student: <br/>Lokal: U10<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-11-06,10:15,2024-11-06,12:00,TDDE24 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-11-06,10:15,2024-11-06,12:00,TDDE24 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-11-06,10:15,2024-11-06,12:00,TDDE24 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-11-06,15:15,2024-11-06,17:00,TDDD72 Lektion (P42),"Information till student: <br/>Lokal: P42<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-11-06,15:15,2024-11-06,17:00,"TDDD72,TDDD88 Lektion (R41)","Information till student: <br/>Lokal: R41<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-07,08:15,2024-11-07,10:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-07,08:15,2024-11-07,10:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-07,08:15,2024-11-07,10:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-07,08:15,2024-11-07,10:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-07,10:15,2024-11-07,12:00,TDDD70 Föreläsning ⓘ (C2),"Information till student: Självmedvetenhet<br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Aseel Berglund,Marie Delsander",,True
+2024-11-07,13:15,2024-11-07,17:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-07,13:15,2024-11-07,17:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-07,13:15,2024-11-07,17:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-08,13:15,2024-11-08,15:00,TDDE25 Redovisning (SU02),"Information till student: <br/>Lokal: SU02<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-08,13:15,2024-11-08,15:00,TDDE25 Redovisning (SU03),"Information till student: <br/>Lokal: SU03<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-08,13:15,2024-11-08,15:00,TDDE25 Redovisning (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-11-11,10:15,2024-11-11,12:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-11,10:15,2024-11-11,12:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-11,10:15,2024-11-11,12:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-11,10:15,2024-11-11,12:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-11,13:15,2024-11-11,17:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-11,13:15,2024-11-11,17:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-11,13:15,2024-11-11,17:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-12,13:15,2024-11-12,15:00,TDDE24 Seminarium (U10),"Information till student: <br/>Lokal: U10<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-11-12,13:15,2024-11-12,15:00,TDDE24 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-11-12,13:15,2024-11-12,15:00,TDDE24 Seminarium (U14),"Information till student: <br/>Lokal: U14<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-11-12,13:15,2024-11-12,15:00,TDDE24 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-11-12,13:15,2024-11-12,15:00,TDDE24 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-11-13,08:15,2024-11-13,12:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-13,08:15,2024-11-13,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-13,13:15,2024-11-13,15:00,"TDDD72,TDDD88 Föreläsning (C2)","Information till student: <br/>Lokal: C2<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Andrzej Szalas",,True
+2024-11-13,15:15,2024-11-13,17:00,TDDD72 Lektion (P42),"Information till student: <br/>Lokal: P42<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-11-13,15:15,2024-11-13,17:00,"TDDD72,TDDD88 Lektion (A31)","Information till student: <br/>Lokal: A31<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-13,17:15,2024-11-13,19:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-13,17:15,2024-11-13,19:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-13,17:15,2024-11-13,19:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-13,17:15,2024-11-13,19:00,TDDE24 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-14,08:15,2024-11-14,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-15,08:15,2024-11-15,10:00,"TDDD72,TDDD88 Föreläsning (C2)","Information till student: <br/>Lokal: C2<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Andrzej Szalas",,True
+2024-11-15,13:15,2024-11-15,15:00,TDDE25 Redovisning (SU12),"Information till student: <br/>Lokal: SU12<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-15,13:15,2024-11-15,15:00,TDDE25 Redovisning (SU13),"Information till student: <br/>Lokal: SU13<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-15,13:15,2024-11-15,15:00,TDDE25 Redovisning (SU14),Information till student: <br/>Lokal: SU14<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-11-18,08:15,2024-11-18,10:00,TDDD72 Lektion (A38),"Information till student: <br/>Lokal: A38<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-11-18,08:15,2024-11-18,10:00,"TDDD72,TDDD88 Lektion (A31)","Information till student: <br/>Lokal: A31<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-18,13:15,2024-11-18,15:00,TDDE24 Seminarium (KY21),"Information till student: <br/>Lokal: KY21<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-11-18,13:15,2024-11-18,15:00,TDDE24 Seminarium (KY23),"Information till student: <br/>Lokal: KY23<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-11-18,13:15,2024-11-18,15:00,TDDE24 Seminarium (KY24),"Information till student: <br/>Lokal: KY24<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-11-18,13:15,2024-11-18,15:00,TDDE24 Seminarium (KY25),"Information till student: <br/>Lokal: KY25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-11-18,13:15,2024-11-18,15:00,TDDE24 Seminarium (KY26),"Information till student: <br/>Lokal: KY26<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-11-18,17:15,2024-11-18,21:00,"TDDE25 Laboration (SU03,SU04)","Information till student: <br/>Lokal: SU03,SU04<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-18,17:15,2024-11-18,21:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-18,17:15,2024-11-18,21:00,TDDE25 Laboration (SU17/18),Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-11-19,13:15,2024-11-19,15:00,TDDE24 Föreläsning (A1),"Information till student: <br/>Lokal: A1<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-11-19,15:15,2024-11-19,17:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-19,15:15,2024-11-19,17:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-19,15:15,2024-11-19,17:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-19,15:15,2024-11-19,17:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-20,08:15,2024-11-20,12:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-20,08:15,2024-11-20,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-20,13:15,2024-11-20,15:00,"TDDD72,TDDD88 Föreläsning (VAL1)","Information till student: <br/>Lokal: VAL1<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-20,15:15,2024-11-20,19:00,TDDE25 Laboration (SU17/18),Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-11-21,10:00,2024-11-21,16:00,Mässa ⓘ,"Information till student: LINK-dagarna, C-huset och Kårallen<br/>Lokal: <br/>Studentgrupp: CS1,CS2,CYS1,CYS2,D1,D2,D3,DI1,DI2,DI3,IP1,IP2,IP3,IT1,IT2,IT3,KOGVET1,KOGVET2,KOGVET3,KOGVETMAST1,KOGVETMAST2,SVP1,SVP2,SVP3,U1,U2,U3<br/>Fria grupper: <br/>Lärare: ",,True
+2024-11-22,08:15,2024-11-22,10:00,TDDD72 Lektion (KY35),"Information till student: <br/>Lokal: KY35<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-11-22,08:15,2024-11-22,10:00,"TDDD72,TDDD88 Lektion (KY34)","Information till student: <br/>Lokal: KY34<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-22,10:15,2024-11-22,12:00,TDDE24 Laboration (Boren),Information till student: <br/>Lokal: Boren<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-22,10:15,2024-11-22,12:00,TDDE24 Laboration (Roxen),Information till student: <br/>Lokal: Roxen<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-22,10:15,2024-11-22,12:00,TDDE24 Laboration (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-22,10:15,2024-11-22,12:00,TDDE24 Laboration (SU14),Information till student: <br/>Lokal: SU14<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-22,13:15,2024-11-22,15:00,"TDDE25 Redovisning (SU13,SU14)","Information till student: <br/>Lokal: SU13,SU14<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-22,13:15,2024-11-22,15:00,TDDE25 Redovisning (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-22,13:15,2024-11-22,15:00,"TDDE25 Redovisning (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-25,10:15,2024-11-25,12:00,TDDE24 Seminarium (U10),"Information till student: <br/>Lokal: U10<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-11-25,10:15,2024-11-25,12:00,TDDE24 Seminarium (U11),"Information till student: <br/>Lokal: U11<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-11-25,10:15,2024-11-25,12:00,TDDE24 Seminarium (U14),"Information till student: <br/>Lokal: U14<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-11-25,10:15,2024-11-25,12:00,TDDE24 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-11-25,10:15,2024-11-25,12:00,TDDE24 Seminarium (U3),"Information till student: <br/>Lokal: U3<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-11-26,08:15,2024-11-26,10:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-26,08:15,2024-11-26,10:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-26,08:15,2024-11-26,10:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-27,08:15,2024-11-27,10:00,TDDE24 Laboration (Asgård),Information till student: <br/>Lokal: Asgård<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-27,08:15,2024-11-27,10:00,TDDE24 Laboration (Egypten),Information till student: <br/>Lokal: Egypten<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-27,08:15,2024-11-27,10:00,TDDE24 Laboration (Olympen),Information till student: <br/>Lokal: Olympen<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-11-27,08:15,2024-11-27,10:00,TDDE24 Laboration (SU24),Information till student: <br/>Lokal: SU24<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-27,10:15,2024-11-27,12:00,"TDDE25 Laboration (SU01,SU02)","Information till student: <br/>Lokal: SU01,SU02<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-27,10:15,2024-11-27,12:00,"TDDE25 Laboration (SU12,SU13)","Information till student: <br/>Lokal: SU12,SU13<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-27,10:15,2024-11-27,12:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-27,15:15,2024-11-27,17:00,"TDDD72,TDDD88 Föreläsning (A1)","Information till student: <br/>Lokal: A1<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-28,08:15,2024-11-28,12:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-28,08:15,2024-11-28,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-11-28,08:15,2024-11-28,12:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-29,08:15,2024-11-29,10:00,TDDD72 Lektion (A37),"Information till student: <br/>Lokal: A37<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-11-29,08:15,2024-11-29,10:00,"TDDD72,TDDD88 Lektion (A31)","Information till student: <br/>Lokal: A31<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-11-29,13:15,2024-11-29,15:00,TDDE25 Redovisning (SU02),"Information till student: <br/>Lokal: SU02<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-11-29,13:15,2024-11-29,15:00,TDDE25 Redovisning (SU03),"Information till student: <br/>Lokal: SU03<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-11-29,13:15,2024-11-29,15:00,TDDE25 Redovisning (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-11-29,15:15,2024-11-29,17:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-11-29,15:15,2024-11-29,17:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-11-29,15:15,2024-11-29,17:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-11-29,15:15,2024-11-29,17:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-02,10:15,2024-12-02,12:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-02,10:15,2024-12-02,12:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-02,10:15,2024-12-02,12:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-02,10:15,2024-12-02,12:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-02,13:15,2024-12-02,17:00,"TDDE25 Laboration (SU10,SU11)","Information till student: <br/>Lokal: SU10,SU11<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-02,13:15,2024-12-02,17:00,"TDDE25 Laboration (SU12,SU13)","Information till student: <br/>Lokal: SU12,SU13<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-02,13:15,2024-12-02,17:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-02,23:45,2024-12-03,00:00,"TDDD70,TDDD84,TDDD91 Inlämning ⓘ","Information till student: Deadline inlämning  i Lisam senast  kl. 23:59<br/>Lokal: <br/>Studentgrupp: D1,D2,D3,U1,U2,U3<br/>Fria grupper: <br/>Lärare: ",,True
+2024-12-03,13:15,2024-12-03,15:00,TDDE24 Föreläsning (A2),"Information till student: <br/>Lokal: A2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-12-03,15:15,2024-12-03,17:00,Information ⓘ (BL32),"Information till student: Vad innebär Civilingenjör i mjukvaruteknik?<br/>Lokal: BL32<br/>Studentgrupp: U1<br/>Fria grupper: <br/>Lärare: Carl Johan Casselgren,Inger Erlander Klein,Johanna Milsten,Lena Buffoni,Tea Nygren",,True
+2024-12-04,08:15,2024-12-04,12:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-04,08:15,2024-12-04,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-04,08:15,2024-12-04,12:00,"TDDE25 Laboration (SU12,SU13)","Information till student: <br/>Lokal: SU12,SU13<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-04,13:15,2024-12-04,15:00,"TDDD72,TDDD88 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Andrzej Szalas",,True
+2024-12-04,15:15,2024-12-04,17:00,TDDD72 Lektion (A37),"Information till student: <br/>Lokal: A37<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-12-04,15:15,2024-12-04,17:00,"TDDD72,TDDD88 Lektion (A32)","Information till student: <br/>Lokal: A32<br/>Studentgrupp: D3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-05,08:15,2024-12-05,10:00,TDDE24 Laboration (SU11),Information till student: <br/>Lokal: SU11<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-05,08:15,2024-12-05,10:00,TDDE24 Laboration (SU12),Information till student: <br/>Lokal: SU12<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-05,08:15,2024-12-05,10:00,TDDE24 Laboration (SU13),Information till student: <br/>Lokal: SU13<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-05,08:15,2024-12-05,10:00,TDDE24 Laboration (SU14),Information till student: <br/>Lokal: SU14<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-05,13:15,2024-12-05,15:00,TDDE25 Redovisning (SU02),"Information till student: <br/>Lokal: SU02<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-05,13:15,2024-12-05,15:00,TDDE25 Redovisning (SU03),"Information till student: <br/>Lokal: SU03<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-05,13:15,2024-12-05,15:00,TDDE25 Redovisning (SU12),Information till student: <br/>Lokal: SU12<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-12-06,10:15,2024-12-06,12:00,TDDD70 Föreläsning ⓘ (C2),"Information till student: Presentationsteknik<br/>Lokal: C2<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Aseel Berglund,Emelie Forsberg",,True
+2024-12-06,13:15,2024-12-06,17:00,TDDE24 Redovisning ⓘ (SU00),"Information till student: Enbart redovisning. Deadline labb 6.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60,Grupp 61<br/>Lärare: ",,True
+2024-12-06,13:15,2024-12-06,17:00,TDDE24 Redovisning ⓘ (SU01),"Information till student: Enbart redovisning. Deadline labb 6.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62,Grupp 63<br/>Lärare: ",,True
+2024-12-09,08:15,2024-12-09,10:00,"TDDD72,TDDD88 Föreläsning (A2)","Information till student: <br/>Lokal: A2<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Andrzej Szalas",,True
+2024-12-09,10:15,2024-12-09,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R18)",Information till student: Presentationsteknik - oförberedd övning. Obligatorisk närvaro. Se kurssida för mer info<br/>Lokal: R18<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Britta Önnegren,,True
+2024-12-09,10:15,2024-12-09,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R19)",Information till student: Presentationsteknik - oförberedd övning. Obligatorisk närvaro. Se kurssida för mer info<br/>Lokal: R19<br/>Studentgrupp: U1.a<br/>Fria grupper: <br/>Lärare: Karin Joelsson,,True
+2024-12-09,13:15,2024-12-09,15:00,TDDE24 Föreläsning ⓘ (C4),"Information till student: Gemensam föreläsning:  Presentation av tentainfo + möjlighet till frågor<br/>Lokal: C4<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Jonas Kvarnström",,True
+2024-12-09,15:15,2024-12-09,19:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-09,15:15,2024-12-09,19:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-09,15:15,2024-12-09,19:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-10,10:15,2024-12-10,12:00,TDDD72 Lektion (A38),"Information till student: <br/>Lokal: A38<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-12-10,10:15,2024-12-10,12:00,"TDDD72,TDDD88 Lektion (A31)","Information till student: <br/>Lokal: A31<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-10,13:15,2024-12-10,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG21)","Information till student: Dialogseminarium: obligatorisk närvaro - U05<br/>Lokal: KG21<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-12-10,13:15,2024-12-10,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG22)","Information till student: Dialogseminarium: obligatorisk närvaro - U14<br/>Lokal: KG22<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-12-10,17:15,2024-12-10,19:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-10,17:15,2024-12-10,19:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-10,17:15,2024-12-10,19:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-10,17:15,2024-12-10,19:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-11,08:15,2024-12-11,10:00,"TDDD72,TDDD88 Föreläsning (C4)","Information till student: <br/>Lokal: C4<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (AG24)","Information till student: Dialogseminarium: obligatorisk närvaro - U07<br/>Lokal: AG24<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: August Ernstsson",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG42)","Information till student: Dialogseminarium: obligatorisk närvaro - U02<br/>Lokal: KG42<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Peter Dalenius",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG43)","Information till student: Dialogseminarium: obligatorisk närvaro - U12<br/>Lokal: KG43<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG44)","Information till student: Dialogseminarium: obligatorisk närvaro - U04<br/>Lokal: KG44<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Anders Fröberg",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG45)","Information till student: Dialogseminarium: obligatorisk närvaro - U01<br/>Lokal: KG45<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Emil Wiman",,True
+2024-12-11,13:15,2024-12-11,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG47)","Information till student: Dialogseminarium: obligatorisk närvaro - U13<br/>Lokal: KG47<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Kristina Boström",,True
+2024-12-11,17:15,2024-12-11,19:00,TDDD72 Lektion (A32),"Information till student: <br/>Lokal: A32<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-12-11,17:15,2024-12-11,19:00,"TDDD72,TDDD88 Lektion (A31)","Information till student: <br/>Lokal: A31<br/>Studentgrupp: D3,MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-12,08:15,2024-12-12,12:00,TDDE24 Redovisning ⓘ (SU11),"Information till student: Enbart redovisning. Deadline labb 7.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU11<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60,Grupp 61<br/>Lärare: ",,True
+2024-12-12,08:15,2024-12-12,12:00,TDDE24 Redovisning ⓘ (SU12),"Information till student: Enbart redovisning. Deadline labb 7.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU12<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62,Grupp 63<br/>Lärare: ",,True
+2024-12-12,17:15,2024-12-12,21:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-12,17:15,2024-12-12,21:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-12,17:15,2024-12-12,21:00,"TDDE25 Laboration (SU24,SU25)","Information till student: <br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-13,08:15,2024-12-13,10:00,TDDD72 Föreläsning (C2),"Information till student: <br/>Lokal: C2<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-13,10:15,2024-12-13,12:00,TDDE24 Seminarium (R43),"Information till student: <br/>Lokal: R43<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-12-13,10:15,2024-12-13,12:00,TDDE24 Seminarium (U15),"Information till student: <br/>Lokal: U15<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-12-13,10:15,2024-12-13,12:00,TDDE24 Seminarium (U4),"Information till student: <br/>Lokal: U4<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-12-13,10:15,2024-12-13,12:00,TDDE24 Seminarium (U6),"Information till student: <br/>Lokal: U6<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-12-13,10:15,2024-12-13,12:00,TDDE24 Seminarium (U7),"Information till student: <br/>Lokal: U7<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-12-13,13:15,2024-12-13,15:00,TDDE25 Redovisning (SU02),"Information till student: <br/>Lokal: SU02<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-13,13:15,2024-12-13,15:00,TDDE25 Redovisning (SU03),"Information till student: <br/>Lokal: SU03<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-13,13:15,2024-12-13,15:00,TDDE25 Redovisning (SU04),Information till student: <br/>Lokal: SU04<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-12-13,15:15,2024-12-13,17:00,TDDE24 Laboration (SU10),Information till student: <br/>Lokal: SU10<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-13,15:15,2024-12-13,17:00,TDDE24 Laboration (SU11),Information till student: <br/>Lokal: SU11<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-13,15:15,2024-12-13,17:00,TDDE24 Laboration (SU12),Information till student: <br/>Lokal: SU12<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-13,15:15,2024-12-13,17:00,TDDE24 Laboration (SU13),Information till student: <br/>Lokal: SU13<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-16,08:15,2024-12-16,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R18)","Information till student: Projektpresentation. Obligatorisk närvaro<br/>Lokal: R18<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Karin Joelsson",,True
+2024-12-16,08:15,2024-12-16,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R19)","Information till student: Projektpresentation. Obligatorisk närvaro<br/>Lokal: R19<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Britta Önnegren",,True
+2024-12-16,08:15,2024-12-16,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R22)","Information till student: Projektpresentation. Obligatorisk närvaro - Lärare: Emelie Forsberg<br/>Lokal: R22<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Emelie Forsberg",,True
+2024-12-16,08:15,2024-12-16,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R23)","Information till student: Projektpresentation. Obligatorisk närvaro<br/>Lokal: R23<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Per-Olof Remnesjö",,True
+2024-12-16,08:15,2024-12-16,12:00,"TDDD70 Obligatoriskt moment,Seminarium ⓘ (R26)","Information till student: Projektpresentation. Obligatorisk närvaro<br/>Lokal: R26<br/>Studentgrupp: D1,U1<br/>Fria grupper: <br/>Lärare: Birgitte Saxtrup Hermansson",,True
+2024-12-16,13:15,2024-12-16,17:00,TDDE24 Redovisning ⓘ (SU10),"Information till student: Enbart redovisning. Deadline labb 8A-B-C.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU10<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60,Grupp 61<br/>Lärare: ",,True
+2024-12-16,13:15,2024-12-16,17:00,TDDE24 Redovisning ⓘ (SU11),"Information till student: Enbart redovisning. Deadline labb 8A-B-C.  Andra labbar hanteras i mån av tid.<br/>Lokal: SU11<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62,Grupp 63<br/>Lärare: ",,True
+2024-12-17,08:15,2024-12-17,12:00,"TDDE25 Laboration (Asgård,Egypten)","Information till student: <br/>Lokal: Asgård,Egypten<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-17,08:15,2024-12-17,12:00,"TDDE25 Laboration (Boren,Roxen)","Information till student: <br/>Lokal: Boren,Roxen<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-17,08:15,2024-12-17,12:00,"TDDE25 Laboration (SU11,SU12)","Information till student: <br/>Lokal: SU11,SU12<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG21)","Information till student: Dialogseminarium: obligatorisk närvaro - U03<br/>Lokal: KG21<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Ahmed Rezine",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG22)","Information till student: Dialogseminarium: obligatorisk närvaro - U06<br/>Lokal: KG22<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Jonathan Hjort",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG23)","Information till student: Dialogseminarium: obligatorisk närvaro - U08<br/>Lokal: KG23<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Helena Orädd",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG31)","Information till student: Dialogseminarium: obligatorisk närvaro - U10<br/>Lokal: KG31<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Aseel Berglund",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG32)","Information till student: Dialogseminarium: obligatorisk närvaro - U11<br/>Lokal: KG32<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Sonia Sangari",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG33)","Information till student: Dialogseminarium: obligatorisk närvaro - U09<br/>Lokal: KG33<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Eva Ragnemalm",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG34)","Information till student: Dialogseminarium: obligatorisk närvaro - U15<br/>Lokal: KG34<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Kristina Boström",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG36)","Information till student: Dialogseminarium: obligatorisk närvaro - U16<br/>Lokal: KG36<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Niklas Lanzén",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG41)","Information till student: Dialogseminarium: obligatorisk närvaro - U17<br/>Lokal: KG41<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: August Ernstsson",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG42)","Information till student: Dialogseminarium: obligatorisk närvaro - U18<br/>Lokal: KG42<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Susanna Dahlgren",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG43)","Information till student: Dialogseminarium: obligatorisk närvaro - U20<br/>Lokal: KG43<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Hanna Müller",,True
+2024-12-17,13:15,2024-12-17,17:00,"TDDD70,TDDD84,TDDD91 Obligatoriskt moment,Seminarium ⓘ (KG44)","Information till student: Dialogseminarium: obligatorisk närvaro - U19<br/>Lokal: KG44<br/>Studentgrupp: U1,U2,U3<br/>Fria grupper: <br/>Lärare: Therese Öberg",,True
+2024-12-17,17:15,2024-12-17,19:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-17,17:15,2024-12-17,19:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-17,17:15,2024-12-17,19:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-17,17:15,2024-12-17,19:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-18,08:15,2024-12-18,10:00,TDDD72 Lektion (A32),"Information till student: <br/>Lokal: A32<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Anders Märak Leffler",,True
+2024-12-18,08:15,2024-12-18,10:00,TDDD72 Lektion (A36),"Information till student: <br/>Lokal: A36<br/>Studentgrupp: MAT3,U1<br/>Fria grupper: <br/>Lärare: Johannes Klaus Fichte",,True
+2024-12-18,15:15,2024-12-18,17:00,TDDE24 Laboration (SU00),Information till student: <br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60<br/>Lärare: ,,True
+2024-12-18,15:15,2024-12-18,17:00,TDDE24 Laboration (SU01),Information till student: <br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 61<br/>Lärare: ,,True
+2024-12-18,15:15,2024-12-18,17:00,TDDE24 Laboration (SU02),Information till student: <br/>Lokal: SU02<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62<br/>Lärare: ,,True
+2024-12-18,15:15,2024-12-18,17:00,TDDE24 Laboration (SU03),Information till student: <br/>Lokal: SU03<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 63<br/>Lärare: ,,True
+2024-12-18,17:15,2024-12-18,19:00,"TDDE25 Laboration (SU00,SU01)","Information till student: <br/>Lokal: SU00,SU01<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-18,17:15,2024-12-18,19:00,TDDE25 Laboration (SU15/16),"Information till student: <br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-18,17:15,2024-12-18,19:00,TDDE25 Laboration (SU17/18),"Information till student: <br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-19,08:15,2024-12-19,10:00,TDDE24 Seminarium (KY21),"Information till student: <br/>Lokal: KY21<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S1<br/>Lärare: ",,True
+2024-12-19,08:15,2024-12-19,10:00,TDDE24 Seminarium (KY23),"Information till student: <br/>Lokal: KY23<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S2<br/>Lärare: ",,True
+2024-12-19,08:15,2024-12-19,10:00,TDDE24 Seminarium (KY24),"Information till student: <br/>Lokal: KY24<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S3<br/>Lärare: ",,True
+2024-12-19,08:15,2024-12-19,10:00,TDDE24 Seminarium (KY25),"Information till student: <br/>Lokal: KY25<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S5<br/>Lärare: ",,True
+2024-12-19,08:15,2024-12-19,10:00,TDDE24 Seminarium (KY26),"Information till student: <br/>Lokal: KY26<br/>Studentgrupp: D1,U1<br/>Fria grupper: Grupp S4<br/>Lärare: ",,True
+2024-12-19,13:15,2024-12-19,15:00,TDDE25 Redovisning ⓘ (SU15/16),"Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU15/16<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-19,13:15,2024-12-19,15:00,TDDE25 Redovisning ⓘ (SU17/18),"Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU17/18<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-19,13:15,2024-12-19,15:00,"TDDE25 Redovisning ⓘ (SU24,SU25)","Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU24,SU25<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström",,True
+2024-12-19,15:15,2024-12-19,17:00,TDDE25 Redovisning ⓘ (SU02),"Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU02<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 3<br/>Lärare: Thea Antonson",,True
+2024-12-19,15:15,2024-12-19,17:00,TDDE25 Redovisning ⓘ (SU14),"Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU14<br/>Studentgrupp: D1,U1<br/>Fria grupper: Storgrupp 4<br/>Lärare: Erik Avedal Holmsten",,True
+2024-12-19,15:15,2024-12-19,17:00,TDDE25 Redovisning ⓘ (SU24),Information till student: Slutdemonstration av projektet för handledaren.  Vi meddelar vilket pass man ska gå på.<br/>Lokal: SU24<br/>Studentgrupp: U1<br/>Fria grupper: Storgrupp 5<br/>Lärare: Arthur Junior Nordström,,True
+2024-12-20,12:15,2024-12-20,17:00,TDDE24 Redovisning ⓘ (SU00),"Information till student: Enbart redovisning. Deadline labb 8D.<br/>Lokal: SU00<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 60,Grupp 61<br/>Lärare: ",,True
+2024-12-20,12:15,2024-12-20,17:00,TDDE24 Redovisning ⓘ (SU01),"Information till student: Enbart redovisning. Deadline labb 8D.<br/>Lokal: SU01<br/>Studentgrupp: U1<br/>Fria grupper: Grupp 62,Grupp 63<br/>Lärare: ",,True
