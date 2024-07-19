@@ -6,9 +6,9 @@ This CLI tool processes CSV files to format and clean data for use in various ap
 Ensure you have Python installed on your computer. You can download Python from python.org.
 
 Ensure you have pip installed. pip comes with Python, but you can upgrade it using the following command:
-´´´
+```
 pip install --upgrade pip
-´´´
+```
 
 ### Steps
 Clone or Download the Repository:
