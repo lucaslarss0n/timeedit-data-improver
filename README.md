@@ -1,5 +1,5 @@
 # CSV Processor
-This CLI tool processes CSV files to format and clean data for use in various applications.
+This CLI tool processes a Timeedit CSV file to better adapt it for importing to Google Calendar.
 
 ## Installation
 ### Prerequisites
@@ -25,7 +25,9 @@ Navigate to the Project Directory:
 
 Change directory to the project folder where setup.py is located.
 
+```
 cd <repository-folder>
+```
 
 Install the Required Dependencies:
 

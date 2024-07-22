@@ -16,16 +16,12 @@ def process_csv(input_file, output_file):
     # Combine 'Kurs' and 'Undervisningstyp' into a new column 'Subject'
     df['Subject'] = df['Kurs'].fillna('') + ' ' + df['Undervisningstyp'].fillna('')
 
-    # Define the condition to add "ⓘ" symbol
+    # Adds a condition that if there is info in the "Information till student" column, a "ⓘ" symbol is added to the title of the event
     condition = (df['Information till student'].notna()) & (df['Information till student'] != '') & (df['Undervisningstyp'] != df['Information till student'])
-
-    # Update the 'Subject' column to add the "ⓘ" symbol
     df['Subject'] = np.where(condition, df['Subject'] + ' ⓘ', df['Subject'])
 
     # Add the room name in parentheses, only if there is a value in the 'Lokal' column
     df['Subject'] = np.where(df['Lokal'].notna() & (df['Lokal'] != ''), df['Subject'] + ' (' + df['Lokal'] + ')', df['Subject'])
-
-    # Remove any leading/trailing spaces
     df['Subject'] = df['Subject'].str.strip()
 
     # Concatenate columns into the 'Description' column with <br/> tags
@@ -37,13 +33,10 @@ def process_csv(input_file, output_file):
         'Lärare: ' + df['Lärare'].fillna('')
     )
 
-    # Delete the unnecessary columns
+    # Delete columns that are no longer needed
     df = df.drop(columns=['Kurs', 'Undervisningstyp', 'Lokal', 'Kartlänk', 'Lärare', 'Studentgrupp', 'Fria grupper', 'Information till student'])
 
-    # Set 'Location' to "Linköpings universitet, 581 83 Linköping, Sverige"
     df['Location'] = ""
-
-    # Add 'Private' column and set it to True
     df['Private'] = True
 
     # Save the updated DataFrame to a new CSV file
