@@ -1,0 +1,124 @@
+/* Base Styles */
+:root {
+    --main: #f39c12; /* Orange */
+    --background: #1b1b1b; /* Dark background */
+    --window: #333333; /* Darker window color */
+    --text-color: #ffffff; /* White text */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: var(--background);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    position: relative; /* Make the header a positioned container */
+    padding: 24px;
+    background-color: var(--background);
+    text-align: left;
+    padding-left: 50px; /* Adjust this value to move the title to the right */
+}
+
+header h1 {
+    color: var(--text-color);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: var(--window);
+    font-size: small; 
+    border-radius: 25px;
+    padding: 10px 20px; 
+    position: absolute; 
+    top: 20px; 
+    right: 20px; 
+}
+
+.navbar a {
+    color: var(--text-color);
+    text-decoration: none;
+    padding: 0 15px; /* Spacing between links */
+}
+
+.navbar a:hover {
+    font-weight: bold;
+}
+
+main {
+    padding: 40px 20px;
+    background-color: var(--window);
+    max-width: 900px;
+    margin: 30px auto;
+    border-radius: 25px; /* More rounded corners */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: var(--main);
+    font-size: 24px;
+}
+
+form {
+    margin: 30px 0;
+}
+
+input[type="file"],
+button {
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 25px; /* Rounded corners */
+    background-color: var(--main); /* Orange color */
+    color: var(--text-color);
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="file"] {
+    background-color: var(--window);
+    color: var(--text-color);
+}
+
+button:hover {
+    background-color: #e67e22; /* Darker orange on hover */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--text-color);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--window);
+    color: var(--text-color);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    font-size: 14px;
+}
+
+a {
+    color: var(--main); /* Orange links */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #e67e22; /* Darker orange on hover */
+}

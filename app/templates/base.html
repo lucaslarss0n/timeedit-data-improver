@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>TEDI - {% block title %}{% endblock title %}</title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    </head>
+    <body>
+        <header>
+            <h1>TEDI - TimeEdit Data Improver</h1>
+        </header>
+        {% include("_navigation.html") %}
+        <main>
+            <section>
+                <header>
+                    {% block header %}{% endblock header %}
+                </header>
+                {% block content %}<p>To be created</p>{% endblock content %}
+            </section>
+        </main>
+        <footer>
+            <p>TEDI © 2024 - Created with care</p>
+        </footer>
+    </body>
+</html>

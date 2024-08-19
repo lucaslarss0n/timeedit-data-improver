@@ -1,12 +1,7 @@
-# Python
-__pycache__/
 *.pyc
-.venv/
-
-# Node
-node_modules/
-npm-debug.log
-
-# Firebase
-functions/node_modules/
-functions/*.log
+__pycache__/
+instance/
+uploads/
+processed/
+.env
+db.sqlite3

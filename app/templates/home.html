@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block header %}
+    <h2>{% block title %}Home{% endblock title %}</h2>
+{% endblock header %}
+
+{% block content %}
+  <p>
+    Learn more about this project by visiting the <a href="{{ url_for('pages.about') }}">About page</a>.
+  </p>
+
+  {% if fria_grupper %}
+  <form action="/" method="post">
+      <input type="hidden" name="filename" value="{{ filename }}">
+      <h2>Select Fria Grupper to Include</h2>
+      {% for group in fria_grupper %}
+          <div>
+              <input type="checkbox" name="fria_grupper" value="{{ group }}">
+              <label>{{ group }}</label>
+          </div>
+      {% endfor %}
+      <button type="submit">Filter and Download</button>
+  </form>
+  {% else %}
+  <h2>Upload CSV File</h2>
+  <form action="/" method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" required>
+    <button type="submit">Upload and Process</button>
+  </form>
+  {% endif %}
+{% endblock content %}
